@@ -8,7 +8,7 @@ CONTEXT
 
 Perusahaan perhotelan kelas menengah, Hotel Portugal, di Portugal yang memiliki dua unit hotel di pusat kota dan di tepi pantai mencatatkan banyak sekali reservasi dari para calon penyewa hotel dari tahun 2015-2017. Namun di antara reservasi tersebut banyak yang berakhir batal. Hal ini mengisyaratkan perlunya dilakukan perbaikan sistem reservasi sehingga hotel mengetahui calon penyewa hotel mana yang benar-benar akan menginap dan mana yang membatalkannya, dilakukan untuk memaksimalkan pemesanan kamar demi mengantisipasi potensi hilangnya pendapatan pada saat musim ramai. Informasi-informasi terkait data diri dan detail pemesanan ada di tangan calon penyewa.
 
-STAKEHOLDER
+STAKEHOLDER:
 Manajemen Operasional Hotel
 
 PROBLEM STATEMENT
